@@ -1,2 +1,2 @@
 # Analisis_de_estudios_clinicos_2019
-Analizaremos la base de datos de un laboratorio de análisis clínicos en un año pre-pandemia, donde podemos observar el comportamiento de los estudios clínicos durante un año
+Análisis de los estudios clinicos que fueron solicitados durante el año 2019 con el objetivo de encontrar información relevante que le pueda servir al departamento de marketing.
